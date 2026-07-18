@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, What's up?👋
+
+
+![dun]()
+
 
 <!--
 **rafansyah2/rafansyah2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**To be is to do**😎
+-Socrates
+
+**To do is to be**😉
+-Kant
+
+**Do be do be do**🤨😜
+-Scooby-Do
+
+**[MY IG GUA](https://www.instagram.com/syhdnnmr_/)**
+
+![ya](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5jZjl1emhyYjBkOW9hMnQyMmVlaHFoNmRta3FsZ3ltZ3R2eDZ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif)
